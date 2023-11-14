@@ -10,4 +10,6 @@ It uses:
 
 However, there are ways around :) 
 
+[![Check the video](https://img.youtube.com/vi/ZGHvDChh2aQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZGHvDChh2aQ)
 
+Also read more [in this blog post](https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/).
